@@ -2,7 +2,7 @@
 
 # MagicComputer
 
-[![Kotlin](https://img.shields.io/badge/Kotlin-1.9.20-blue.svg?logo=kotlin)](https://kotlinlang.org) [![Android](https://img.shields.io/badge/Android-API%2021%2B-green.svg)](https://developer.android.com) [![Architecture](https://img.shields.io/badge/Architecture-MVVM-orange.svg)](https://developer.android.com/topic/architecture)
+[![Kotlin](https://img.shields.io/badge/Kotlin-2.0.21-blue.svg?logo=kotlin)](https://kotlinlang.org) [![Android](https://img.shields.io/badge/Android-API%2024%2B-green.svg)](https://developer.android.com) [![Architecture](https://img.shields.io/badge/Architecture-MVVM-orange.svg)](https://developer.android.com/topic/architecture)
 
 </div>
 <div align="center">
